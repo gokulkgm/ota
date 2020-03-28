@@ -1,20 +1,12 @@
 {
   "updates": [
     {
-      "build": 20200325,
-      "name": "pa-quartz-1-oneplus7pro-20200325-dev",
-      "md5": "554468b2089222abc19a5726fee864db",
-      "size": 1407582735,
-      "url": "https://de1.uploads.androidfilehost.com/dl/1KSuRc2Ya1ud6dmXUOKQQA/1585408604/4349826312261754174/pa-quartz-1-oneplus7pro-20200325-dev.zip?",
-      "version": "2"
-    },
-    {
-      "build": 20200327,
-      "name": "pa-quartz-1-oneplus7pro-20200326-dev",
-      "md5": "a97455e9938e5a5bec5c6533e512859d",
-      "size": 1395184214,
-      "url": "https://de1.androidfilehost.com/dl/UG7sRZkK9xmzyR8-G8NGAA/1585488544/4349826312261754833/pa-quartz-1-oneplus7pro-20200326-dev.zip?",
-      "version": "3"
+      "build": 20200329,
+      "name": "pa-quartz-1-oneplus7pro-20200327-dev",
+      "md5": "711c8c1fcf80e657bb36ae8b403e279a",
+      "size": 1086972365,
+      "url": "https://de1.androidfilehost.com/dl/0L1Vd3fRzW5u2ZO6T5gbVg/1585585414/4349826312261755937/pa-quartz-1-oneplus7pro-20200327-dev.zip?",
+      "version": "1.1"
     },
   ]
 }
