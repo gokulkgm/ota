@@ -1,0 +1,30 @@
+{
+  "device": "oneplus7pro",
+  "builds": 3,
+  "updates": [
+    {
+      "name": "pa-quartz-1-oneplus7pro-20200415-release.zip",
+      "version": "1",
+      "build": "20200415",
+      "size": 1076129232,
+      "url": "https://updates.aospa.co/oneplus7pro/pa-quartz-1-oneplus7pro-20200415.zip",
+      "md5": "9aacdab46d4d14ea1e7094d306884cc4"
+    },
+    {
+      "name": "pa-quartz-2-oneplus7pro-20200425-release.zip",
+      "version": "2",
+      "build": "20200425",
+      "size": 1105160093,
+      "url": "https://updates.aospa.co/oneplus7pro/pa-quartz-2-oneplus7pro-20200425.zip",
+      "md5": "1fd8384c6c7c4b3a60c5b5ac28f37c42"
+    },
+    {
+      "name": "pa-quartz-3-oneplus7pro-20200508-dev.zip",
+      "version": "3.1",
+      "build": "20200509",
+      "size": 1109973274,
+      "url": "https://github-production-release-asset-2e65be.s3.amazonaws.com/250027679/cb3f7480-90e7-11ea-9173-14a6ee8127ab?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200508T030129Z&X-Amz-Expires=300&X-Amz-Signature=facd91d63915362aac9ae2a01d483ccde286a092eee0319a2bf5858560244cba&X-Amz-SignedHeaders=host&actor_id=5259277&repo_id=250027679&response-content-disposition=attachment%3B%20filename%3Dpa-quartz-3-oneplus7pro-20200508-dev.zip&response-content-type=application%2Foctet-stream",
+      "md5": "52b6e05172cd69ac7298cb6730415d07"
+    }
+  ]
+}

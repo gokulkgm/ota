@@ -1,0 +1,64 @@
+{
+    "devices": [
+        {
+            "name": "oneplus7pro",
+            "description": "7 Pro",
+            "manufacturer": "OnePlus"
+        },
+        {
+            "name": "oneplus7tpro",
+            "description": "7T Pro",
+            "manufacturer": "OnePlus"
+        },
+        {
+            "name": "oneplus6",
+            "description": "6/6T",
+            "manufacturer": "OnePlus"
+        },
+        {
+            "name": "oneplus5",
+            "description": "5/5T",
+            "manufacturer": "OnePlus"
+        },
+        {
+            "name": "oneplus3",
+            "description": "3/3T",
+            "manufacturer": "OnePlus"
+        },
+        {
+            "name": "mata",
+            "description": "PH1",
+            "manufacturer": "Essential"
+        },
+        {
+            "name": "rosy",
+            "description": "Redmi 5",
+            "manufacturer": "Xiaomi"
+        },
+        {
+            "name": "sagit",
+            "description": "MI 6",
+            "manufacturer": "Xiaomi"
+        },
+        {
+            "name": "cepheus",
+            "description": "MI 9",
+            "manufacturer": "Xiaomi"
+        },
+        {
+            "name": "X00TD",
+            "description": "Zenfone Max Pro M1",
+            "manufacturer": "Asus"
+        },
+        {
+            "name": "X01BD",
+            "description": "Zenfone Max Pro M2",
+            "manufacturer": "Asus"
+        },
+        {
+            "name": "A6020",
+            "description": "Vibe K5/Plus",
+            "manufacturer": "Lenovo"
+        }
+    ]
+}
