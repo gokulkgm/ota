@@ -1,7 +1,5 @@
 {
-  "device": "oneplus7pro",
-  "builds": 3,
-  "updates": [
+  "response": [
     {
       "name": "pa-quartz-1-oneplus7pro-20200415-release.zip",
       "version": "1",
