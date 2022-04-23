@@ -3,73 +3,62 @@
         {
             "name": "OnePlus 7 Pro",
             "codename": "oneplus7pro",
-            "description": "7 Pro",
             "manufacturer": "OnePlus"
         },
         {
-            "name": "OnePlus 7T Pro",
+            "name": "7T Pro",
             "codename": "oneplus7tpro",
-            "description": "7T Pro",
             "manufacturer": "OnePlus"
         },
         {
-            "name": "OnePlus 6/6T",
+            "name": "6/6T",
             "codename": "oneplus6",
-            "description": "6/6T",
             "manufacturer": "OnePlus"
         },
         {
-            "name": "OnePlus 5/5T",
+            "name": "5/5T",
             "codename": "oneplus5",
-            "description": "5/5T",
             "manufacturer": "OnePlus"
         },
         {
-            "name": "OnePlus 3/3T",
+            "name": "3/3T",
             "codename": "oneplus3",
-            "description": "3/3T",
             "manufacturer": "OnePlus"
         },
         {
-            "name": "Essential PH1",
+            "name": "PH1",
             "codename": "mata",
-            "description": "PH1",
             "manufacturer": "Essential"
         },
         {
-            "name": "Xiaomi Redmi 5",
+            "name": "Redmi 5",
             "codename": "rosy",
-            "description": "Redmi 5",
             "manufacturer": "Xiaomi"
         },
         {
-            "name": "Xiaomi Mi 6",
+            "name": "Mi 6",
             "codename": "sagit",
             "description": "MI 6",
             "manufacturer": "Xiaomi"
         },
         {
-            "name": "Xiaomi Mi 9",
+            "name": "Mi 9",
             "codename": "cepheus",
-            "description": "MI 9",
             "manufacturer": "Xiaomi"
         },
         {
-            "name": "Asus Zenfone Max Pro M1",
+            "name": "Zenfone Max Pro M1",
             "codename": "X00TD",
-            "description": "Zenfone Max Pro M1",
             "manufacturer": "Asus"
         },
         {
-            "name": "Asus Zenfone Max Pro M2",
+            "name": "Zenfone Max Pro M2",
             "codename": "X01BD",
-            "description": "Zenfone Max Pro M2",
             "manufacturer": "Asus"
         },
         {
-            "name": "Lenovo Vibe K5/Plus",
+            "name": "Vibe K5/Plus",
             "codename": "A6020",
-            "description": "Vibe K5/Plus",
             "manufacturer": "Lenovo"
         }
     ]
