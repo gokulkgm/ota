@@ -5,8 +5,8 @@
             "codename": "oneplus7pro",
             "manufacturer": "OnePlus",
             "supported_versions": [ "Sapphire" ],
-            "supported_types": [ "Alpha", "Beta" ],
-	        "active": true
+            "supported_types": [ "Alpha" ],
+	    "active": true
         },
         {
             "name": "7T Pro",
