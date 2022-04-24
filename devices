@@ -4,7 +4,6 @@
             "name": "7 Pro",
             "codename": "oneplus7pro",
             "manufacturer": "OnePlus",
-            "supported_types": [ "beta", "alpha" ],
         },
         {
             "name": "7T Pro",
