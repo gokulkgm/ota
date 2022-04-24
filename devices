@@ -5,7 +5,7 @@
             "codename": "oneplus7pro",
             "manufacturer": "OnePlus",
             "supported_versions": [ "Sapphire" ],
-            "supported_types": [ "Alpha" ],
+            "supported_types": [ "Beta", "Alpha" ],
 	    "active": true,
 	    "maintainer_name": "iCapa",
 	    "maintainer_xda": "https://forum.xda-developers.com/m/icapa.6294411/",
