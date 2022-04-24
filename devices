@@ -6,7 +6,11 @@
             "manufacturer": "OnePlus",
             "supported_versions": [ "Sapphire" ],
             "supported_types": [ "Alpha" ],
-	    "active": true
+	    "active": true,
+	    "maintainer_name": "iCapa",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/icapa.6294411/",
+	    "maintainer_country": "GER",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7t.4379529/"
         },
         {
             "name": "7T Pro",
