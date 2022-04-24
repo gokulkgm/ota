@@ -6,7 +6,7 @@
             "manufacturer": "OnePlus",
             "supported_versions": [ "Sapphire" ],
             "supported_types": [ "Alpha", "Beta" ],
-            "active": true
+	        "active": true
         },
         {
             "name": "7T Pro",
