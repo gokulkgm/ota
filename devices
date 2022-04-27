@@ -1,5 +1,17 @@
 {
     "devices": [
+        {
+            "name": "9 Pro",
+            "codename": "oneplus9pro",
+            "manufacturer": "OnePlus",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Beta", "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "vishalcj17",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
+	    "maintainer_country": "IND",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-oneplus-9-pro.4371655/"
+        },
             {
             "name": "8 Pro",
             "codename": "oneplus8pro",
