@@ -83,57 +83,6 @@
 	    "maintainer_xda": "https://forum.xda-developers.com/m/icapa.6294411/",
 	    "maintainer_country": "GER",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
-        },
-        {
-            "name": "6/6T",
-            "codename": "oneplus6",
-            "manufacturer": "OnePlus"
-        },
-        {
-            "name": "5/5T",
-            "codename": "oneplus5",
-            "manufacturer": "OnePlus"
-        },
-        {
-            "name": "3/3T",
-            "codename": "oneplus3",
-            "manufacturer": "OnePlus"
-        },
-        {
-            "name": "PH1",
-            "codename": "mata",
-            "manufacturer": "Essential"
-        },
-        {
-            "name": "Redmi 5",
-            "codename": "rosy",
-            "manufacturer": "Xiaomi"
-        },
-        {
-            "name": "Mi 6",
-            "codename": "sagit",
-            "description": "MI 6",
-            "manufacturer": "Xiaomi"
-        },
-        {
-            "name": "Mi 9",
-            "codename": "cepheus",
-            "manufacturer": "Xiaomi"
-        },
-        {
-            "name": "Zenfone Max Pro M1",
-            "codename": "X00TD",
-            "manufacturer": "Asus"
-        },
-        {
-            "name": "Zenfone Max Pro M2",
-            "codename": "X01BD",
-            "manufacturer": "Asus"
-        },
-        {
-            "name": "Vibe K5/Plus",
-            "codename": "A6020",
-            "manufacturer": "Lenovo"
         }
     ]
 }
