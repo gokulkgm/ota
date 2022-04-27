@@ -1,0 +1,26 @@
+{
+  "updates": [
+    {
+                  "date": "2022-02-02", 
+                  "datetime": "1643760000", 
+                  "filename": "aospa-sapphire-2-apollo-alpha-20220202.zip", 
+                  "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-2/aospa-sapphire-2-apollo-alpha-20220202.zip", 
+                  "id": "65cb970d2e0fdaa40e4c7e072b06", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "2",
+                  "version": "Sapphire"
+    },
+    {
+                  "date": "2021-12-25", 
+                  "datetime": "1640390400", 
+                  "filename": "aospa-sapphire-1-apollo-alpha-20211225.zip", 
+                  "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-1/aospa-sapphire-1-apollo-alpha-20211225.zip", 
+                  "id": "65cb970d2", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "1",
+                  "version": "Sapphire"
+    }
+  ]
+}
