@@ -1,6 +1,18 @@
 {
     "devices": [
       {
+            "name": "Mi 10T | Mi 10T Pro",
+            "codename": "apollo",
+            "manufacturer": "Xiaomi",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "mahajant99",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/mahajant99.9505787/",
+	    "maintainer_country": "IND",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-10t-10t-pro.4379539/"
+       },    
+      {
             "name": "Mi 10",
             "codename": "umi",
             "manufacturer": "Xiaomi",
