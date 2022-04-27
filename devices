@@ -1,5 +1,17 @@
 {
     "devices": [
+    {
+            "name": "X3 | X3 NFC",
+            "codename": "surya",
+            "manufacturer": "POCO",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "chrisw444",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/chrisw444.11220339/",
+	    "maintainer_country": "BR",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-poco-x3-x3-nfc.4383259/"
+        },    
       {
             "name": "Mi 10T | Mi 10T Pro",
             "codename": "apollo",
