@@ -15,12 +15,34 @@
                   "date": "2022-03-04", 
                   "datetime": "1617412100", 
                   "filename": "aospa-sapphire-3-oneplus7pro-alpha-20220304-image.zip", 
-                  "url": "https://sourceforge.net/projects/aospa/files/Sapphire/Alpha/oneplus7pro/aospa-sapphire-3-oneplus7pro-alpha-20220304-image.zip/download", 
+                  "url": "https://github.com/aospa-releases/oneplus7pro/releases/download/sapphire-alpha-3/aospa-sapphire-3-oneplus7pro-alpha-20220304-image.zip", 
                   "id": "65cb970d2e0fdaa40e4c7e072b06167c1af8c554acdf26e230d8dda893aaff25", 
                   "size": "1389379622", 
                   "romtype": "Alpha",
                   "number" : "3",
                   "version": "Sapphire"
-    }
+    },
+    {
+                  "date": "2022-01-28", 
+                  "datetime": "1617412100", 
+                  "filename": "aospa-sapphire-2-oneplus7pro-alpha-20220128-image.zip", 
+                  "url": "https://github.com/aospa-releases/oneplus7pro/releases/download/sapphire-alpha-2/aospa-sapphire-2-oneplus7pro-alpha-20220128-image.zip", 
+                  "id": "65cb970d2e0fdaa40e4c7e072b06167c1af8c554acdf26e230d8dda893aaff25", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "2",
+                  "version": "Sapphire"
+    },
+    {
+                  "date": "2022-12-21", 
+                  "datetime": "1617412100", 
+                  "filename": "aospa-sapphire-1-oneplus7pro-alpha-20211221-img", 
+                  "url": "https://github.com/aospa-releases/oneplus7pro/releases/download/sapphire-alpha-1/aospa-sapphire-1-oneplus7pro-alpha-20211221-img.zip", 
+                  "id": "65cb970d2e0fdaa40e4c7e072b06167c1af8c554acdf26e230d8dda893aaff25", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "1",
+                  "version": "Sapphire"
+    },
   ]
 }
