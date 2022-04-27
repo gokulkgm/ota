@@ -1,5 +1,17 @@
 {
     "devices": [
+      {
+            "name": "Mi 10",
+            "codename": "umi",
+            "manufacturer": "Xiaomi",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Beta", "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "ChaptSand",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/chaptsand.10891663/",
+	    "maintainer_country": "CHN",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-xiaomi-mi-10.4370977/"
+       },
        {
             "name": "F2 Pro",
             "codename": "lmi",
