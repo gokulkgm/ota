@@ -36,6 +36,18 @@
 	    "maintainer_country": "SWI",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
         },
+	{
+            "name": "7T Pro",
+            "codename": "oneplus7tpro",
+            "manufacturer": "OnePlus",
+	    "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Beta", "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "iCapa",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/icapa.6294411/",
+	    "maintainer_country": "GER",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
+        },
         {
             "name": "7 Pro",
             "codename": "oneplus7pro",
@@ -47,11 +59,6 @@
 	    "maintainer_xda": "https://forum.xda-developers.com/m/icapa.6294411/",
 	    "maintainer_country": "GER",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
-        },
-        {
-            "name": "7T Pro",
-            "codename": "oneplus7tpro",
-            "manufacturer": "OnePlus"
         },
         {
             "name": "6/6T",
