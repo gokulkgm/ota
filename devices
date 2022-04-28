@@ -1,6 +1,54 @@
 {
     "devices": [
        {
+            "name": "Mi 8",
+            "codename": "dipper",
+            "manufacturer": "Xiaomi",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "rtx4d",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/rtx4d.6400169/",
+	    "maintainer_country": "RUS",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-8.4396061/"
+       },
+       {
+            "name": "Mi 8 Explorer Edition",
+            "codename": "ursa",
+            "manufacturer": "Xiaomi",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "rtx4d",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/rtx4d.6400169/",
+	    "maintainer_country": "RUS",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
+       },
+       {
+            "name": "X3 Pro",
+            "codename": "vayu",
+            "manufacturer": "POCO",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "Foxtrot47",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/foxtrot47.10344183/",
+	    "maintainer_country": "IND",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-poco-x3-pro.4408069/"
+       },
+       {
+            "name": "Mi 8 Pro",
+            "codename": "equuleus",
+            "manufacturer": "Xiaomi",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "rtx4d",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/rtx4d.6400169/",
+	    "maintainer_country": "RUS",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
+       },
+       {
             "name": "Mi Mix 3",
             "codename": "perseus",
             "manufacturer": "Xiaomi",
