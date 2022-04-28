@@ -1,6 +1,18 @@
 {
     "devices": [
        {
+            "name": "9R",
+            "codename": "oneplus9r",
+            "manufacturer": "OnePlus",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "33bca",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/33bca.5296790/",
+	    "maintainer_country": "SWI",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
+       },
+       {
             "name": "Mi 8",
             "codename": "dipper",
             "manufacturer": "Xiaomi",
