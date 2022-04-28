@@ -1,0 +1,15 @@
+{
+  "updates": [
+    {
+                  "date": "2022-02-24", 
+                  "datetime": "1645660800", 
+                  "filename": "aospa-sapphire-1-ursa-alpha-20220224.zip", 
+                  "url": "https://github.com/aospa-releases/ursa/releases/download/sapphire-alpha-1/aospa-sapphire-1-ursa-alpha-20220224.zip", 
+                  "id": "65cb970d2", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "1",
+                  "version": "Sapphire"
+    }
+  ]
+}
