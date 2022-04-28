@@ -1,0 +1,26 @@
+{
+  "updates": [
+    {
+                  "date": "2022-02-17", 
+                  "datetime": "1645056133", 
+                  "filename": "aospa-sapphire-2-perseus-alpha-20220217.zip", 
+                  "url": "https://github.com/aospa-releases/perseus/releases/download/sapphire-alpha-2/aospa-sapphire-2-perseus-alpha-20220217.zip", 
+                  "id": "65cb970d2e0fdaa40e4c7e072b06", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "2",
+                  "version": "Sapphire"
+    },
+    {
+                  "date": "2022-02-09", 
+                  "datetime": "1644364933", 
+                  "filename": "aospa-sapphire-1-perseus-alpha-20220209.zip", 
+                  "url": "https://github.com/aospa-releases/perseus/releases/download/sapphire-alpha-1/aospa-sapphire-1-perseus-alpha-20220209.zip", 
+                  "id": "65cb970d2", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "1",
+                  "version": "Sapphire"
+    }
+  ]
+}
