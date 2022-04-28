@@ -1,5 +1,17 @@
 {
     "devices": [
+        {
+            "name": "Mi Mix 2S",
+            "codename": "polaris",
+            "manufacturer": "Xiaomi",
+            "supported_versions": [ "Sapphire" ],
+            "supported_types": [ "Alpha" ],
+	    "active": true,
+	    "maintainer_name": "rtx4d",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/rtx4d.6400169/",
+	    "maintainer_country": "RUS",
+	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-2s.4396059/"
+       },
        {
             "name": "F1",
             "codename": "beryllium",
@@ -7,12 +19,12 @@
             "supported_versions": [ "Sapphire" ],
             "supported_types": [ "Alpha" ],
 	    "active": true,
-	    "maintainer_name": "mickaelmendes50",
+	    "maintainer_name": "rtx4d",
 	    "maintainer_xda": "https://forum.xda-developers.com/m/rtx4d.6400169/",
 	    "maintainer_country": "RUS",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-poco-f1.4396063/"
-        },
-    {
+       },
+       {
             "name": "X3 | X3 NFC",
             "codename": "surya",
             "manufacturer": "POCO",
@@ -23,8 +35,8 @@
 	    "maintainer_xda": "https://forum.xda-developers.com/m/chrisw444.11220339/",
 	    "maintainer_country": "BR",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-poco-x3-x3-nfc.4383259/"
-        },    
-      {
+       },    
+       {
             "name": "Mi 10T | Mi 10T Pro",
             "codename": "apollo",
             "manufacturer": "Xiaomi",
@@ -36,7 +48,7 @@
 	    "maintainer_country": "IND",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-10t-10t-pro.4379539/"
        },    
-      {
+       {
             "name": "Mi 10",
             "codename": "umi",
             "manufacturer": "Xiaomi",
