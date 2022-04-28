@@ -1,0 +1,15 @@
+{
+  "updates": [
+    {
+                  "date": "2022-02-25", 
+                  "datetime": "1645747333", 
+                  "filename": "aospa-sapphire-1-vayu-alpha-20220225.zip", 
+                  "url": "https://github.com/aospa-releases/vayu/releases/download/sapphire-alpha-1/aospa-sapphire-1-vayu-alpha-20220225.zip", 
+                  "id": "65cb970d2", 
+                  "size": "1389379622", 
+                  "romtype": "Alpha",
+                  "number" : "1",
+                  "version": "Sapphire"
+    }
+  ]
+}
