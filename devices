@@ -199,8 +199,8 @@
 	    "supported_versions": [ "Sapphire" ],
             "supported_types": [ "Alpha" ],
 	    "active": true,
-	    "maintainer_name": "iCapa",
-	    "maintainer_xda": "https://forum.xda-developers.com/m/icapa.6294411/",
+	    "maintainer_name": "timo_capa",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/timo_capa.6294411/",
 	    "maintainer_country": "GER",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
         },
@@ -211,8 +211,8 @@
             "supported_versions": [ "Sapphire" ],
             "supported_types": [ "Beta", "Alpha" ],
 	    "active": true,
-	    "maintainer_name": "iCapa",
-	    "maintainer_xda": "https://forum.xda-developers.com/m/icapa.6294411/",
+	    "maintainer_name": "timo_capa",
+	    "maintainer_xda": "https://forum.xda-developers.com/m/timo_capa.6294411/",
 	    "maintainer_country": "GER",
 	    "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
         }
