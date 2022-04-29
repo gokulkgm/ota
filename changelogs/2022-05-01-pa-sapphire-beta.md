@@ -1,6 +1,6 @@
 ## Paranoid Android Sapphire BETA-20220501 Changelog
 
-<img src="https://raw.githubusercontent.com/Herna1994/ota_test/master/changelogs/imgs/sapphire-beta-dark.png" alt="Paranoid Android Sapphire Beta" width="100%" />
+<img src="https://raw.githubusercontent.com/Herna1994/ota_test/master/changelogs/imgs/sapphire-beta.png" alt="Paranoid Android Sapphire Beta" width="100%" />
 
 Starting on the Sapphire beta builds based on 20220501 and after, you will find the next changes with-in the Paranoid Android:
 
