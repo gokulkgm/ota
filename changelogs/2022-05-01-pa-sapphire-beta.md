@@ -1,4 +1,4 @@
-# Paranoid Android Sapphire BETA-20220501 Changelog
+## Paranoid Android Sapphire BETA-20220501 Changelog
 
 Starting on the Sapphire beta builds based on 20220501 and after, you will find the next changes with-in the Paranoid Android:
 
