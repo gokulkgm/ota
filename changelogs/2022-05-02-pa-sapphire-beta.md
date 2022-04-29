@@ -1,6 +1,6 @@
 ## Paranoid Android Quartz 5
 
-<img src="'../../sapphire.png'" alt="Paranoid Android Quartz 5 Supported Devices" width="100%" />
+<img src="https://blog.paranoidandroid.co/static/2020/2020-09-30-quartz-5.png" alt="Paranoid Android Quartz 5 Supported Devices" width="100%" />
 
 ### Bye Bye Quartz
 
