@@ -6,7 +6,7 @@
                   "filename": "aospa-sapphire-2-apollo-alpha-20220202.zip", 
                   "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-2/aospa-sapphire-2-apollo-alpha-20220202.zip", 
                   "id": "65cb970d2e0fdaa40e4c7e072b06", 
-                  "size": "1389379622", 
+                  "size": "1801885760", 
                   "romtype": "Alpha",
                   "number" : "2",
                   "version": "Sapphire"
@@ -17,7 +17,7 @@
                   "filename": "aospa-sapphire-1-apollo-alpha-20211225.zip", 
                   "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-1/aospa-sapphire-1-apollo-alpha-20211225.zip", 
                   "id": "65cb970d2", 
-                  "size": "1389379622", 
+                  "size": "1750669956", 
                   "romtype": "Alpha",
                   "number" : "1",
                   "version": "Sapphire"
