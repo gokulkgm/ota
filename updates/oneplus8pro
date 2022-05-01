@@ -17,7 +17,7 @@
                   "filename": "aospa-sapphire-2-oneplus8pro-alpha-20220118-image.zip", 
                   "url": "https://github.com/aospa-releases/oneplus8pro/releases/download/sapphire-alpha-2/aospa-sapphire-2-oneplus8pro-alpha-20220118-image.zip", 
                   "id": "65cb970d2e0fdaa40e4c7e072b06", 
-                  "size": "1389379622", 
+                  "size": "2031524107", 
                   "romtype": "Alpha",
                   "number" : "2",
                   "version": "Sapphire"
@@ -28,7 +28,7 @@
                   "filename": "aospa-sapphire-1-oneplus8pro-alpha-20211128-image.zip", 
                   "url": "https://github.com/aospa-releases/oneplus8pro/releases/download/sapphire-alpha-1/aospa-sapphire-1-oneplus8-alpha-20211128-image.zip", 
                   "id": "65cb970d2", 
-                  "size": "1389379622", 
+                  "size": "1926385607", 
                   "romtype": "Alpha",
                   "number" : "1",
                   "version": "Sapphire"
