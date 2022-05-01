@@ -6,7 +6,7 @@
                   "filename": "aospa-sapphire-3-lmi-alpha-20220308.zip", 
                   "url": "https://github.com/aospa-releases/lmi/releases/download/sapphire-alpha-3/aospa-sapphire-3-lmi-alpha-20220308.zip", 
                   "id": "65cb970d2e0fdaa40e4c7e072b06167c1af8c554acdf26e230d8dda893aaff25", 
-                  "size": "1389379622", 
+                  "size": "2078321977", 
                   "romtype": "Alpha",
                   "number" : "3",
                   "version": "Sapphire"
@@ -17,7 +17,7 @@
                   "filename": "aospa-sapphire-2-lmi-alpha-20220218.zip", 
                   "url": "https://github.com/aospa-releases/lmi/releases/download/sapphire-alpha-2/aospa-sapphire-2-lmi-alpha-20220218.zip", 
                   "id": "65cb970d2e0fdaa40e4c7e072b06", 
-                  "size": "1389379622", 
+                  "size": "1940522711", 
                   "romtype": "Alpha",
                   "number" : "2",
                   "version": "Sapphire"
@@ -28,7 +28,7 @@
                   "filename": "aospa-sapphire-1-lmi-alpha-20211204.zip", 
                   "url": "https://github.com/aospa-releases/lmi/releases/download/sapphire-alpha-1/aospa-sapphire-1-lmi-alpha-20211204.zip", 
                   "id": "65cb970d2", 
-                  "size": "1389379622", 
+                  "size": "1704643937", 
                   "romtype": "Alpha",
                   "number" : "1",
                   "version": "Sapphire"
