@@ -1,12 +1,12 @@
 {
   "updates": [
      {
-                  "date": "2022-04-20", 
+                  "date": "2022-05-06", 
                   "datetime": "1650412800",
-                  "filename": "aospa-sapphire-1-oneplus7pro-beta-20220420.zip", 
-                  "url": "https://sourceforge.net/projects/aospa/files/Sapphire/Beta/oneplus7pro/aospa-sapphire-1-oneplus7pro-beta-20220420.zip/download/", 
-                  "id": "f4c939372834e96de6e6ad4f5443b6db", 
-                  "size": "1751102712", 
+                  "filename": "aospa-sapphire-1-oneplus7pro-beta-20220506.zip", 
+                  "url": "https://github.com/aospa-releases/oneplus7pro/releases/download/sapphire-beta-1/aospa-sapphire-1-oneplus7pro-beta-20220506-image.zip", 
+                  "id": "c57edb4c2ad61b13b6d6616eaff385bd", 
+                  "size": "1857957521", 
                   "romtype": "Beta",
                   "number" : "1",
                   "version": "Sapphire"
