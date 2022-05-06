@@ -1,6 +1,6 @@
-# Paranoid Android Sapphire BETA-20220501 Changelog
+## Paranoid Android Sapphire BETA-20220506 Changelog
 
-Starting on the Sapphire beta builds based on 20220501 and after, you will find the next changes with-in the Paranoid Android:
+Starting on the Sapphire beta builds based on 20220506 and after, you will find the next changes with-in the Paranoid Android:
 
 *  Pocket lock
 *  3 finger swipe screenshot
@@ -22,7 +22,6 @@ Starting on the Sapphire beta builds based on 20220501 and after, you will find 
 *  Statusbar icon manager
 *  Auto brightness icon in QS panel
 
-*Notice*: Starting on betas with this date and afterwards, the builds will be signed with our private keys. It will
-require a clean install if you were already on our older beta.
+*Notice*: Starting on betas with this date and afterwards, the builds will be signed with our private keys. It will require a clean install if you were already on our older beta.
 
-*#StayParanoid*
+*#stayparanoid*
