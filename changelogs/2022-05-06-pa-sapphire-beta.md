@@ -24,6 +24,7 @@ Starting on the Sapphire beta builds based on 20220506 and after, you will find 
 +  Statusbar icon manager
 +  Auto brightness icon in QS panel
 
-**Notice**: Starting on betas with this date and afterwards, the builds will be signed with our private keys. It will require a clean install if you were already on our older beta.
+**Notice**: Starting on betas with this date and afterwards, the builds will be signed with our private keys.
+It will require a clean install if you were already on our older beta.
 
 **#stayparanoid**
