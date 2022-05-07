@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "date": "2022-05-07",
+      "datetime": "1651881600",
+      "filename": "aospa-sapphire-1-oneplus7t-beta-20220507-image.zip",
+      "url": "https://github.com/aospa-releases/oneplus7t/releases/download/sapphire-beta-1/aospa-sapphire-1-oneplus7t-beta-20220507-image.zip",
+      "id": "1440a11cb4d72370324df757388def87",
+      "size": "1878909258",
+      "romtype": "Beta",
+      "number": "1",
+      "version": "Sapphire"
+    },
+    {
       "date": "2022-03-04",
       "datetime": "1646352000",
       "filename": "aospa-sapphire-3-oneplus7t-alpha-20220304.zip",
