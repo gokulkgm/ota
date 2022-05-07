@@ -1,15 +1,15 @@
 {
   "updates": [
     {
-                  "date": "2022-02-24", 
-                  "datetime": "1645660800", 
-                  "filename": "aospa-sapphire-1-equuleus-alpha-20220224.zip", 
-                  "url": "https://github.com/aospa-releases/equuleus/releases/download/sapphire-alpha-1/aospa-sapphire-1-equuleus-alpha-20220224.zip", 
-                  "id": "47893a6ed8757a7bc3cc25356356260d", 
-                  "size": "1456380027", 
-                  "romtype": "Alpha",
-                  "number" : "1",
-                  "version": "Sapphire"
+      "date": "2022-02-24",
+      "datetime": "1645660800",
+      "filename": "aospa-sapphire-1-equuleus-alpha-20220224.zip",
+      "url": "https://github.com/aospa-releases/equuleus/releases/download/sapphire-alpha-1/aospa-sapphire-1-equuleus-alpha-20220224.zip",
+      "id": "47893a6ed8757a7bc3cc25356356260d",
+      "size": "1456380027",
+      "romtype": "Alpha",
+      "number": "1",
+      "version": "Sapphire"
     }
   ]
 }

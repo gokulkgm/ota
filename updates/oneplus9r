@@ -1,15 +1,15 @@
 {
   "updates": [
     {
-                  "date": "2022-04-07", 
-                  "datetime": "1649289600", 
-                  "filename": "aospa-sapphire-3-oneplus9r-alpha-202200407-image.zip", 
-                  "url": "https://drive.google.com/uc?export=download&id=1d2DOQpGMMs3h7XHhfzePT1V2mmgLEwVs", 
-                  "id": "31b5fb4bd268b2c84fc175869293ba46", 
-                  "size": "1389379622", 
-                  "romtype": "Alpha",
-                  "number" : "3",
-                  "version": "Sapphire"
+      "date": "2022-04-07",
+      "datetime": "1649289600",
+      "filename": "aospa-sapphire-3-oneplus9r-alpha-202200407-image.zip",
+      "url": "https://drive.google.com/uc?export=download&id=1d2DOQpGMMs3h7XHhfzePT1V2mmgLEwVs",
+      "id": "31b5fb4bd268b2c84fc175869293ba46",
+      "size": "1389379622",
+      "romtype": "Alpha",
+      "number": "3",
+      "version": "Sapphire"
     }
   ]
 }

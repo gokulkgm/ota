@@ -1,26 +1,26 @@
 {
   "updates": [
     {
-                  "date": "2022-02-06", 
-                  "datetime": "1645142400", 
-                  "filename": "aospa-sapphire-2-surya-alpha-20220206.zip", 
-                  "url": "https://github.com/aospa-releases/surya/releases/download/sapphire-alpha-2/aospa-sapphire-2-surya-alpha-20220206.zip", 
-                  "id": "47bfa542fe34574e6a860a63d0d66960", 
-                  "size": "1722594444", 
-                  "romtype": "Alpha",
-                  "number" : "2",
-                  "version": "Sapphire"
+      "date": "2022-02-06",
+      "datetime": "1645142400",
+      "filename": "aospa-sapphire-2-surya-alpha-20220206.zip",
+      "url": "https://github.com/aospa-releases/surya/releases/download/sapphire-alpha-2/aospa-sapphire-2-surya-alpha-20220206.zip",
+      "id": "47bfa542fe34574e6a860a63d0d66960",
+      "size": "1722594444",
+      "romtype": "Alpha",
+      "number": "2",
+      "version": "Sapphire"
     },
     {
-                  "date": "2022-01-03", 
-                  "datetime": "1641168000", 
-                  "filename": "aospa-sapphire-1-surya-alpha-20220103.zip", 
-                  "url": "https://github.com/aospa-releases/surya/releases/download/sapphire-alpha-1/aospa-sapphire-1-surya-alpha-20220103.zip", 
-                  "id": "fcdb332d40e75c2e71f4504a6def4d27", 
-                  "size": "1671903827", 
-                  "romtype": "Alpha",
-                  "number" : "1",
-                  "version": "Sapphire"
+      "date": "2022-01-03",
+      "datetime": "1641168000",
+      "filename": "aospa-sapphire-1-surya-alpha-20220103.zip",
+      "url": "https://github.com/aospa-releases/surya/releases/download/sapphire-alpha-1/aospa-sapphire-1-surya-alpha-20220103.zip",
+      "id": "fcdb332d40e75c2e71f4504a6def4d27",
+      "size": "1671903827",
+      "romtype": "Alpha",
+      "number": "1",
+      "version": "Sapphire"
     }
   ]
 }

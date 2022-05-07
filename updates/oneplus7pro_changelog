@@ -1,10 +1,10 @@
 {
-    "changelogs": [
-      {
-                    "text": "Initial beta release",
-                    "romtype": "Beta",
-                    "number": "1",
-                    "version": "Sapphire" 
-      }
-    ]
-  }
+  "changelogs": [
+    {
+      "text": "Initial beta release",
+      "romtype": "Beta",
+      "number": "1",
+      "version": "Sapphire"
+    }
+  ]
+}

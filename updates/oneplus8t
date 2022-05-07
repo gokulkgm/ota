@@ -1,15 +1,15 @@
 {
   "updates": [
     {
-                  "date": "2022-04-07", 
-                  "datetime": "1649289600", 
-                  "filename": "aospa-sapphire-3-oneplus8t-alpha-20220407-image.zip", 
-                  "url": "https://drive.google.com/uc?export=download&id=1BEqaplV2PWAf30jILDxoB92pW7zo2c7y", 
-                  "id": "8f0f2e400a14f63f2422af197c78dc15", 
-                  "size": "1389379622", 
-                  "romtype": "Alpha",
-                  "number" : "3",
-                  "version": "Sapphire"
+      "date": "2022-04-07",
+      "datetime": "1649289600",
+      "filename": "aospa-sapphire-3-oneplus8t-alpha-20220407-image.zip",
+      "url": "https://drive.google.com/uc?export=download&id=1BEqaplV2PWAf30jILDxoB92pW7zo2c7y",
+      "id": "8f0f2e400a14f63f2422af197c78dc15",
+      "size": "1389379622",
+      "romtype": "Alpha",
+      "number": "3",
+      "version": "Sapphire"
     }
   ]
 }
