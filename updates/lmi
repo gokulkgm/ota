@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "date": "2022-05-07",
+      "datetime": "1651881600",
+      "filename": "aospa-sapphire-3-lmi-beta-20220507.zip",
+      "url": "https://github.com/aospa-releases/lmi/releases/download/sapphire-beta-1/aospa-sapphire-1-lmi-beta-20220507.zip",
+      "id": "342b77ff7a00d1163ac33652aca622ab",
+      "size": "2078321977",
+      "romtype": "Beta",
+      "number": "1",
+      "version": "Sapphire"
+    },
+    {
       "date": "2022-03-08",
       "datetime": "1646697600",
       "filename": "aospa-sapphire-3-lmi-alpha-20220308.zip",
