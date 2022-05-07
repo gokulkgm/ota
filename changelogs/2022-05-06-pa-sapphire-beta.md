@@ -11,7 +11,7 @@ Starting on the Sapphire beta builds based on 20220506 and after, you will find 
 +  Custom vibration patterns
 +  Screen off gestures
 +  Adaptive playback (smart pause)
-+  Columbus/Double Tap on back (currently broken but still pushed to main org)
++  Columbus/Double Tap on back
 +  Volume long press skip track
 +  Long press power button for torch
 +  Immersive navigation
