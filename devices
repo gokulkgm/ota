@@ -1,6 +1,66 @@
 {
      "devices": [
           {
+               "name": "K40",
+               "codename": "alioth",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "omkartheandroid",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "IND",
+               "comaintainer_name": "Vitor00",
+               "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
+               "comaintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
+          },
+          {
+               "name": "Mi 11X",
+               "codename": "alioth",
+               "manufacturer": "Xiaomi",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "omkartheandroid",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "IND",
+               "comaintainer_name": "Vitor00",
+               "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
+               "comaintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
+          },
+          {
+               "name": "F3",
+               "codename": "alioth",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "omkartheandroid",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "IND",
+               "comaintainer_name": "Vitor00",
+               "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
+               "comaintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
+          },
+          {
                "name": "8T",
                "codename": "oneplus8t",
                "manufacturer": "OnePlus",
