@@ -3,7 +3,7 @@
 Starting on the Sapphire beta builds based on 20220506 and after, you will find the next changes with-in the Paranoid Android:
 
 +  Based on Android 12.1/12L
-+  Based on LA.QSSI.12.0.r1-07100.01-qssi.0 by CodeAuroraForum (CAF)
++  Based on LA.QSSI.12.0.r1-07100.01-qssi.0 by CodeLinaroOrganization (CLO)
 +  Security Patch Level up to [May 2022](https://source.android.com/security/bulletin/2021-05-01)
 +  Pocket lock
 +  3 finger swipe screenshot
