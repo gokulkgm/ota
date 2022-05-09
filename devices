@@ -1,6 +1,25 @@
 {
      "devices": [
           {
+               "name": "5T",
+               "codename": "oneplus5t",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta"
+               ],
+               "active": true,
+               "maintainer_name": "eneskaya",
+               "maintainer_link": "https://forum.xda-developers.com/m/enesykaya.11130693",
+               "maintainer_country": "TUR",
+               "comaintainer_name": "herna",
+               "comaintainer_link": "https://forum.xda-developers.com/m/herna.2225255/",
+               "comaintainer_country": "SPA",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-oneplus-5-5t.4443517/"
+          },
+          {
                "name": "K40",
                "codename": "alioth",
                "manufacturer": "Redmi",
