@@ -3,10 +3,10 @@
     {
       "date": "2022-05-09",
       "datetime": " 1652127000",
-      "filename": "aospa-sapphire-1-oneplus5t-beta-20220509-image.zip",
-      "url": "https://github.com/aospa-releases/oneplus5t/releases/download/sapphire-beta-1/aospa-sapphire-1-oneplus5t-beta-20220509-image.zip",
-      "id": "46a1e2cbc8bb0e2715a97dda841cc03e",
-      "size": "1711140835",
+      "filename": "aospa-sapphire-1-oneplus5t-beta-20220509.zip",
+      "url": "https://github.com/aospa-releases/oneplus5t/releases/download/sapphire-beta-1/aospa-sapphire-1-oneplus5t-beta-20220509.zip",
+      "id": "69b677589fbc6c020905096ad278ba9c",
+      "size": "1517032046",
       "romtype": "Beta",
       "number": "1",
       "version": "Sapphire"
