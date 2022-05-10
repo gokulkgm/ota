@@ -2,9 +2,9 @@
   "changelogs": [
     {
       "text": "Initial beta release",
-      "romtype": "Beta",
-      "number": "1",
-      "version": "Sapphire"
+      "variant": "Beta",
+      "minor": "1",
+      "major": "Sapphire"
     }
   ]
 }

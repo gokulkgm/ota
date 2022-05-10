@@ -7,9 +7,9 @@
       "url": "https://github.com/aospa-releases/oneplus5/releases/download/sapphire-beta-1/aospa-sapphire-1-oneplus5-beta-20220509.zip",
       "id": "97863864e16c638781da578d8507bc51",
       "size": "1517038078",
-      "romtype": "Beta",
-      "number": "1",
-      "version": "Sapphire"
+      "variant": "Beta",
+      "minor": "1",
+      "major": "Sapphire"
     }
   ]
 }

@@ -7,9 +7,9 @@
       "url": "https://github.com/aospa-releases/oneplus7tpro/releases/download/sapphire-beta-1/aospa-sapphire-1-oneplus7tpro-beta-20220506-image.zip",
       "id": "2b557e45f743f38c40fdb12fca56a945",
       "size": "1879010177",
-      "romtype": "Beta",
-      "number": "1",
-      "version": "Sapphire"
+      "variant": "Beta",
+      "minor": "1",
+      "major": "Sapphire"
     },
     {
       "date": "2022-03-04",
@@ -18,9 +18,9 @@
       "url": "https://github.com/aospa-releases/oneplus7tpro/releases/download/sapphire-alpha-3/aospa-sapphire-3-oneplus7tpro-alpha-20220304.zip",
       "id": "4f4fddeae50017cb2cceaca9194294d7",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "3",
-      "version": "Sapphire"
+      "variant": "Alpha",
+      "minor": "3",
+      "major": "Sapphire"
     },
     {
       "date": "2022-01-28",
@@ -29,9 +29,9 @@
       "url": "https://github.com/aospa-releases/oneplus7tpro/releases/download/sapphire-alpha-2/aospa-sapphire-2-oneplus7tpro-alpha-20220128.zip",
       "id": "581898e3050031dabb9d00feb496bddb",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "2",
-      "version": "Sapphire"
+      "variant": "Alpha",
+      "minor": "2",
+      "major": "Sapphire"
     },
     {
       "date": "2021-12-04",
@@ -40,9 +40,9 @@
       "url": "https://github.com/aospa-releases/oneplus7tpro/releases/download/sapphire-alpha-1/aospa-sapphire-1-oneplus7tpro-alpha-20211204-image.zip",
       "id": "1fdb5dadfe40adfb9634fc23abbe8ebe",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "1",
-      "version": "Sapphire"
+      "variant": "Alpha",
+      "minor": "1",
+      "major": "Sapphire"
     }
   ]
 }
