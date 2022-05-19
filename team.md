@@ -1,10 +1,10 @@
-##  Paranoid Android is so much more, but it must be experienced, felt.
+##  Paranoid Android
 
 Paranoid Android is a custom ROM aiming to extend the system, working on enhancing the already existing beauty of Android and following the same design philosophies that were set forward by Google for Android Open Source Project.
 
 We try and provide a fluid experience, with enhancements, rather than features. This is a minimalist's rom. Everything added fits with the feel Android provides. In use, you will feel right at home and grow attached to the small additions added into this project.
 
-We hope you enjoy Paranoid Android. Over the years, our team members and contributors put a lot of their spare time, care, and love, into this project
+Our team members and contributors have invested a lot of their time, care, and love into this project over the years. We hope you enjoy Paranoid Android.
 
 ## Team & Contributions
 
