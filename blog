@@ -1,0 +1,58 @@
+{
+    "posts": [
+        {
+            "id": "2022-05-06-pa-sapphire-beta",
+            "date": 1651795200,
+            "title": "Paranoid Android Sapphire Beta Announcement",
+            "snippet": "Paranoid Android Sapphire Beta Announcement, read all we are excited to announce you ..."
+        },
+        {
+            "id": "2021-11-28-pa-sapphire-alpha",
+            "date": 1638057600,
+            "title": "Paranoid Android Sapphire Alpha Announcement",
+            "snippet": "Paranoid Android Sapphire Alpha Announcement, read all we are excited to announce you ..."
+        },
+        {
+            "id": "2020-09-30-pa-quartz-5",
+            "date": 1601416800,
+            "title": "Paranoid Android Quartz 5",
+            "snippet": "Paranoid Android Quartz 5 is now available, check all the new stuff inside this post ..."
+        },
+        {
+            "id": "2020-07-21-pa-quartz-4",
+            "date": 1595282400,
+            "title": "Paranoid Android Quartz 4",
+            "snippet": "Paranoid Android Quartz 4 is now available, check all the new stuff inside this post ..."
+        },
+        {
+            "id": "2020-06-12-pa-quartz-3",
+            "date": 1591932800,
+            "title": "Paranoid Android Quartz 3",
+            "snippet": "Paranoid Android Quartz 3 is now available, check all the new stuff inside this post ..."
+        },
+        {
+            "id": "2020-04-26-pa-quartz-2",
+            "date": 1587916800,
+            "title": "Paranoid Android Quartz 2",
+            "snippet": "Paranoid Android Quartz 2 is now available, check all the new stuff inside this post ..."
+        },
+        {
+            "id": "2020-04-16-pa-quartz-1",
+            "date": 1587045600,
+            "title": "Paranoid Android Quartz 1",
+            "snippet": "Paranoid Android Quartz 1 is now available, check all the new stuff inside this post ..."
+        },
+        {
+            "id": "2019-09-30-pa-quartz-alpha",
+            "date_created": 1569802900,
+            "title": "Paranoid Android Quartz Alpha Announcement",
+            "snippet": "Quartz New Pussycat?\n Hey all, we’ve been working hard behind the scenes and have several announcements that we are really excited about and feel we are ready to make..."
+        },
+        {
+            "id": "2019-02-26-adarsh",
+            "date": 1551135600,
+            "title": "A Loss In The Community",
+            "snippet": "We are very sorry to have heard the news that Adarsh-MR (Adarsh1998), the founder of Citrus-CAF and Cardinal-AOSP has passed away after recent illness complications.\n\nHe was always helpful and humble when it came to his work and his contributions towards the community..."
+        }
+    ]
+}
