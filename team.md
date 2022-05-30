@@ -11,13 +11,16 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Aaron Gascoigne
 * Aaron Nixon
 * Abhishek Aggarwal
+* Aditya Kevin
 * Adithya R
 * Akash Srivastava
 * Akhil Narang
+* Alejandro Lopez
 * Alex Lionne
 * Alex Naidis
 * Alexis Rico
 * Alexander Koskovich
+* Allan Pereira Araújo
 * Anay Wadhera
 * Anass Karbila
 * Andre Saddler
@@ -45,21 +48,27 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Hieu Nguyen
 * Igor Silva
 * Jake Weinstein
+* James Gatt
 * Javi Toro
+* Jean Graff
 * Jesús David Gulfo Agudelo
 * Joshua Choo
 * Joyal Jose
 * Jyotiraditya Panda
+* Keerten K
 * Kevin Aguilar
 * Lennart Wieboldt
 * Lo Huot
 * Marco Marinho
 * Matt Flaming
 * Maitreya Patni
+* Michael Hrechyn
 * Mickael Mesquita
 * Miguel Carvalho
+* Musfiqul Islam
 * Nick
 * Oliver Reiche
+* Omkar Chandorkar
 * Park Ju Hyung
 * Parth Bhatia
 * Parthipan Ramesh
@@ -68,7 +77,9 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Radek Błędowski
 * Rituj Beniwal
 * Rob Farnham
+* Roman Rihter
 * Sahul Krishan
+* Tattwamashi Nayak
 * Tim Graham
 * Tim Malseed
 * Timo Dorfner
@@ -77,6 +88,7 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Vaisakh Murali
 * Valter Strods
 * Vishal Cj
+* Wanderson Rodrigues
 * Willi Ye
 * Yamil Ghazi
 * Yuan Si
