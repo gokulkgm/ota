@@ -21,6 +21,7 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Anay Wadhera
 * Anass Karbila
 * Andre Saddler
+* Andrey Sprynga
 * Andrew Fluck
 * Arian Kulmer
 * Arz Bhatia
@@ -31,10 +32,12 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Chris Crawford
 * Curtis Mayers
 * David Leppla-Weber
+* Enes Yalçınkaya
 * Espen Flagtvedt Olsen
 * Evan Anderson
 * Fabian Leutenegger
 * Florian Schulte
+* Gagan Malvi
 * Griffin Millender
 * Hampus Olsson
 * Hemanth Savarala
@@ -45,12 +48,15 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Javi Toro
 * Jesús David Gulfo Agudelo
 * Joshua Choo
+* Joyal Jose
 * Jyotiraditya Panda
 * Kevin Aguilar
 * Lennart Wieboldt
 * Lo Huot
 * Marco Marinho
 * Matt Flaming
+* Maitreya Patni
+* Mickael Mesquita
 * Miguel Carvalho
 * Nick
 * Oliver Reiche
@@ -65,7 +71,9 @@ Our team members and contributors have invested a lot of their time, care, and l
 * Sahul Krishan
 * Tim Graham
 * Tim Malseed
+* Timo Dorfner
 * Tobias Merkel
+* Tushar Mahajan
 * Vaisakh Murali
 * Valter Strods
 * Vishal Cj
