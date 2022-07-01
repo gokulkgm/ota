@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "date": "2022-07-01",
+      "datetime": "1656633600",
+      "filename": "aospa-sapphire-2-oneplus7t-beta-20220701-image.zip",
+      "url": "https://t.me/paranoidaospa/69",
+      "mirror": "https://drive.google.com/drive/folders/134BpiBwjeXnk59iEzDSjPTNjXnVVi-VO?usp=sharing",
+      "id": "d2ac0bc6c4e0b4ba41e037b365bdab4c0f4226b6e1da1cbce70c171d29600d8b",
+      "size": "1906624084",
+      "variant": "Beta",
+      "minor": "2",
+      "major": "Sapphire"
+    },
+    {
       "date": "2022-05-07",
       "datetime": "1651881600",
       "filename": "aospa-sapphire-1-oneplus7t-beta-20220507-image.zip",

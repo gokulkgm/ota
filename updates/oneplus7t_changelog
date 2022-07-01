@@ -1,6 +1,12 @@
 {
   "changelogs": [
     {
+      "text": "Updated blobs, EROFS, Fixed camera issues, WireGuard kernel support, Fuse passthrough",
+      "variant": "Beta",
+      "minor": "2",
+      "major": "Sapphire"
+    },
+    {
       "text": "Initial beta release",
       "variant": "Beta",
       "minor": "1",
