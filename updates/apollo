@@ -1,6 +1,19 @@
 {
   "updates": [
     {
+      "date": "2022-08-13",
+      "datetime": "1660424614",
+      "filename": "aospa-sapphire-1-apollo-beta-20220813-image.zip",
+      "url": "https://t.me/paranoidaospa/75",
+      "mirror": "https://drive.google.com/drive/folders/1cbMfoS_mMrM0nPfPCKzxN-K0Ff3pBg4m?usp=sharing",
+      "id": "69708d199630336619eb13820cf0e45047440ddced41e2eb33e5c1eee74344cc",
+      "size": "2345834837",
+      "romtype": "Beta",
+      "number": "1",
+      "version": "Sapphire", 
+      "android_version": "12"
+    },
+    {
       "date": "2022-02-02",
       "datetime": "1643760000",
       "filename": "aospa-sapphire-2-apollo-alpha-20220202.zip",
