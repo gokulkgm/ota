@@ -7,9 +7,10 @@
       "url": "https://drive.google.com/uc?export=download&id=1BEqaplV2PWAf30jILDxoB92pW7zo2c7y",
       "id": "8f0f2e400a14f63f2422af197c78dc15",
       "size": "1389379622",
-      "variant": "Alpha",
-      "minor": "3",
-      "major": "Sapphire"
+      "romtype": "Alpha",
+      "number": "3",
+      "version": "Sapphire", 
+      "android_version": "12"
     }
   ]
 }

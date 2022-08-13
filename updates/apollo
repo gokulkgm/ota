@@ -7,9 +7,10 @@
       "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-2/aospa-sapphire-2-apollo-alpha-20220202.zip",
       "id": "c694a856834a37a866de354877461775",
       "size": "1801885760",
-      "variant": "Alpha",
-      "minor": "2",
-      "major": "Sapphire"
+      "romtype": "Alpha",
+      "number": "2",
+      "version": "Sapphire", 
+      "android_version": "12"
     },
     {
       "date": "2021-12-25",
@@ -18,9 +19,10 @@
       "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-1/aospa-sapphire-1-apollo-alpha-20211225.zip",
       "id": "591f7e21d75f2275cd0e33d9770b2f74",
       "size": "1750669956",
-      "variant": "Alpha",
-      "minor": "1",
-      "major": "Sapphire"
+      "romtype": "Alpha",
+      "number": "1",
+      "version": "Sapphire", 
+      "android_version": "12"
     }
   ]
 }

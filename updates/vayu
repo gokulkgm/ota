@@ -7,9 +7,10 @@
       "url": "https://github.com/aospa-releases/vayu/releases/download/sapphire-alpha-1/aospa-sapphire-1-vayu-alpha-20220225.zip",
       "id": "f1207445e62fb391ee9e1f7d432185d7",
       "size": "1824801971",
-      "variant": "Alpha",
-      "minor": "1",
-      "major": "Sapphire"
+      "romtype": "Alpha",
+      "number": "1",
+      "version": "Sapphire", 
+      "android_version": "12"
     }
   ]
 }
