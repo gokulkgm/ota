@@ -1,0 +1,19 @@
+{
+  "updates": [
+    {
+      "date": "2022-10-15",
+      "datetime": "1665792000",
+      "filename": "aospa-topaz-alpha-1-phone1-20221015",
+      "url": "https://github.com/AOSPA/android_device_nothing_phone1/releases/download/topaz-alpha-1/aospa-topaz-alpha-1-phone1-20221015.zip",
+      "fastboot": "https://github.com/AOSPA/android_device_nothing_phone1/releases/download/topaz-alpha-1/aospa-topaz-alpha-1-phone1-20221015-image.zip",
+      "mirror": "https://drive.google.com/drive/folders/1nJRIhXDUf5-UILnHououBV-WHsO3uPNf?usp=sharing",
+      "telegram": "https://t.me/paranoidaospa/76",
+      "id": "dded1af2bb8b2e919f0c84edd032a0a534aee854d4ea1c82eff0ac06c25a4e3c",
+      "size": "2016836078",
+      "romtype": "Alpha",
+      "number": "1",
+      "version": "Topaz", 
+      "android_version": "13"
+    }
+   ]
+}
