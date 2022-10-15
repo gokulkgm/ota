@@ -1,9 +1,20 @@
 {
     "changelog": [
         {
-            "major": "Sapphire",
-            "variant": "Beta",
-            "minor": "1",
+            "version": "",
+            "romtype": "",
+            "number": "",
+            "android_version": "",
+            "id": "",
+            "date": 1651795200,
+            "info": "",
+            "info_brief": ""
+        },
+        {
+            "version": "Sapphire",
+            "romtype": "Beta",
+            "number": "1",
+            "android_version": "12",
             "id": "2022-05-06-pa-sapphire-beta",
             "date": 1651795200,
             "info": "<li>Pocket lock<br/> <li>3 finger swipe screenshot<li/><li>Face-based auto-rotate settings<li/> <li>Custom vibration patterns<li/> <li>Screen off gestures<li/> <li>Adaptive playback (smart pause)<li/> <li>Columbus/Double Tap on back (currently broken but still pushed to main org)<li/> <li>Volume long press skip track<li/> <li>Long press power button for torch<li/> <li>Immersive navigation<li/> <li>Customizable navigation bar length<li/> <li>Linked and unlinked notification, and ringer sound toggle<li/> <li>Per app volume control<li/> <li>Lockscreen smart space<li/> <li>Google bar in launcher dock<li/> <li>3rd party apps themed icons<li/> <li>Double tap to sleep<li/> <li>Statusbar icon manager<li/> <li>Auto brightness icon in QS panel<li/>",
