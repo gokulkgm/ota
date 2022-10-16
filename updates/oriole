@@ -1,6 +1,21 @@
 {
   "updates": [
     {
+      "date": "2022-10-16",
+      "datetime": "1665792222",
+      "filename": "aospa-topaz-beta-1.1-oriole-20221016",
+      "url": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-oriole/aospa-topaz-beta-1.1-oriole-20221016.zip",
+      "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-oriole/aospa-topaz-beta-1.1-oriole-20221016-image.zip",
+      "mirror": "https://drive.google.com/drive/folders/1f8NeK8aERsZXoTzyDfviYzdMDpg-jMff?usp=sharing",
+      "telegram": "",
+      "id": "4b14ce044db8f3041f96fc7ae98ac524b91880936eae8503f2b667e3e9e9434b",
+      "size": "1658741945",
+      "romtype": "Beta",
+      "number": "1.1",
+      "version": "Topaz", 
+      "android_version": "13"
+    },
+    {
       "date": "2022-10-15",
       "datetime": "1665792000",
       "filename": "aospa-topaz-beta-1-oriole-20221015",
