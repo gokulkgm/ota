@@ -1,0 +1,19 @@
+{
+  "updates": [
+    {
+      "date": "2022-10-15",
+      "datetime": "1665792000",
+      "filename": "aospa-topaz-beta-1-bluejay-20221015",
+      "url": "https://github.com/AOSPA/android_device_google_bluejay/releases/download/topaz-beta-1/aospa-topaz-beta-1-bluejay-20221015.zip",
+      "fastboot": "https://github.com/AOSPA/android_device_google_bluejay/releases/download/topaz-beta-1/aospa-topaz-beta-1-bluejay-20221015-image.zip",
+      "mirror": "https://drive.google.com/drive/folders/1rft5ZZ0cfHbdrLeD94z_0Q0vKIHm0lXl?usp=sharing",
+      "telegram": "https://t.me/paranoidaospa/91",
+      "id": "e8d78f246fc703d65e57ce73e8521a7dea5a088a282831ebea780b33db2f9efb",
+      "size": "1658741945",
+      "romtype": "Beta",
+      "number": "1",
+      "version": "Topaz", 
+      "android_version": "13"
+    }
+   ]
+}
