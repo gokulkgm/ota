@@ -394,6 +394,22 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9-pro.4506887/"
           },
           {
+               "name": "9",
+               "codename": "oneplus9",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta"
+               ],
+               "active": true,
+               "maintainer_name": "vishalcj17",
+               "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
+               "maintainer_country": "IND",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9.4506891/"
+          },
+          {
                "name": "8 Pro",
                "codename": "oneplus8pro",
                "manufacturer": "OnePlus",
