@@ -380,19 +380,18 @@
                "codename": "oneplus9pro",
                "manufacturer": "OnePlus",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Beta",
                     "Alpha"
                ],
                "active": true,
                "maintainer_name": "vishalcj17",
                "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
                "maintainer_country": "IND",
-               "comaintainer_name": "arter97",
-               "comaintainer_link": "https://twitter.com/arter97",
-               "comaintainer_country": "SKR",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-oneplus-9-pro.4371655/"
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9-pro.4506887/"
           },
           {
                "name": "8 Pro",
