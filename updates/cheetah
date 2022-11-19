@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2022-11-19",
+      "datetime": "1668844977",
+      "filename": "aospa-topaz-beta-1-cheetah-20221119.zip",
+      "url": "https://github.com/AOSPA/android_device_google_pantah/releases/download/topaz-beta-1-cheetah/aospa-topaz-beta-1-cheetah-20221119.zip",
+      "fastboot": "https://github.com/AOSPA/android_device_google_pantah/releases/download/topaz-beta-1-cheetah/aospa-topaz-beta-1-cheetah-20221119-image.zip",
+      "mirror": "",
+      "telegram": "https://t.me/paranoidaospa/113",
+      "id": "1A23EB3B220473A426B346AF85DB9A651D6F3AB842F19A7657208845AEC294EA",
+      "size": "1728653141",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "Initial Beta Release"
+    }
+   ]
+}
