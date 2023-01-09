@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-01-09",
+      "datetime": "1673255648",
+      "filename": "aospa-topaz-beta-1-phone1-20230109.zip",
+      "url": "https://mirror.codebucket.de/gotenks/aospa/phone1/aospa-topaz-beta-1-phone1-20230109.zip",
+      "fastboot": "https://mirror.codebucket.de/gotenks/aospa/phone1/aospa-topaz-beta-1-phone1-20230109-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "d3b046bb2fddce05b294ca448f4b60d652cde103d8b34e81d2b5c4901364e7b3",
+      "size: "1737058802",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "January 2023 SPL, Improved Glyph, Enforcing SELinux",
+    },
+    {
       "date": "2022-11-18",
       "datetime": "1668818098",
       "filename": "aospa-topaz-alpha-3-phone1-20221118.zip",
