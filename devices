@@ -331,12 +331,12 @@
                "codename": "beryllium",
                "manufacturer": "POCO",
                "supported_versions": [
-                    "Sapphire",
-                    "Topaz"
+                    "Topaz",
+                    "Sapphire"
                ],
                "supported_types": [
-                    "Alpha",
-                    "Beta"
+                    "Beta",
+                    "Alpha"
                ],
                "active": true,
                "maintainer_name": "REIGNZ3",
