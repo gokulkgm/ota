@@ -335,7 +335,7 @@
                     "Topaz"
                ],
                "supported_types": [
-                    "Alpha"
+                    "Alpha",
                     "Beta"
                ],
                "active": true,
