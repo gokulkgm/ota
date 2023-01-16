@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-01-12",
+      "datetime": "1673537118",
+      "filename": "aospa-topaz-beta-1-beryllium-20230112.zip",
+      "url": "https://github.com/AOSPA/android_device_xiaomi_beryllium/releases/download/topaz-beta-1/aospa-topaz-beta-1-beryllium-20230112.zip",
+      "fastboot": "https://github.com/AOSPA/android_device_xiaomi_beryllium/releases/download/topaz-beta-1/aospa-topaz-beta-1-beryllium-20230112-image.zip",
+      "mirror": "",
+      "telegram": "https://t.me/paranoidaospa/129",
+      "id": "25b1c3bb0c4a8cea218eccc8057867dd420425a054058a4e86fe9f243f9c1538",
+      "size": "1734037097",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Initial Release"
+    },
+    {
       "date": "2022-02-17",
       "datetime": "1645056133",
       "filename": "aospa-sapphire-2-beryllium-alpha-20220217.zip",
