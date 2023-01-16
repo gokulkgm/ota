@@ -331,7 +331,7 @@
                "codename": "beryllium",
                "manufacturer": "POCO",
                "supported_versions": [
-                    "Sapphire"
+                    "Sapphire",
                     "Topaz"
                ],
                "supported_types": [
