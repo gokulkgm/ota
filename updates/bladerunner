@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-01-15",
+      "datetime": "1673758341",
+      "filename": "aospa-topaz-beta-1-bladerunner-20230115.zip",
+      "url": "https://mirror.codebucket.de/gotenks/aospa/bladerunner/aospa-topaz-beta-1-bladerunner-20230115.zip",
+      "fastboot": "https://mirror.codebucket.de/gotenks/aospa/bladerunner/aospa-topaz-beta-1-bladerunner-20230115-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "582c755f3654292e0ad7e391d068d1f84aec526963336c8930f13d46c7b9ecb1",
+      "size": "2372631420",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Initial Beta Release"
+    }
+   ]
+}
