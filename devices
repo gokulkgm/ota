@@ -94,7 +94,7 @@
                "active": true,
                "maintainer_name": "herna",
                "maintainer_link": "https://forum.xda-developers.com/m/herna.2225255/",
-               "maintainer_country": "SPA",
+               "maintainer_country": "ES",
                "comaintainer_name": "xboxfanj",
                "comaintainer_link": "https://forum.xda-developers.com/m/xboxfanj.4003363/",
                "comaintainer_country": "US",
@@ -113,10 +113,10 @@
                "active": true,
                "maintainer_name": "eneskaya",
                "maintainer_link": "https://forum.xda-developers.com/m/enesykaya.11130693",
-               "maintainer_country": "TUR",
+               "maintainer_country": "TR",
                "comaintainer_name": "marcomarinho",
                "comaintainer_link": "https://forum.xda-developers.com/m/marcomarinho.4811442/",
-               "comaintainer_country": "POR",
+               "comaintainer_country": "PT",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-oneplus-5-5t.4443517/"
           },
           {
@@ -132,10 +132,10 @@
                "active": true,
                "maintainer_name": "eneskaya",
                "maintainer_link": "https://forum.xda-developers.com/m/enesykaya.11130693",
-               "maintainer_country": "TUR",
+               "maintainer_country": "TR",
                "comaintainer_name": "herna",
                "comaintainer_link": "https://forum.xda-developers.com/m/herna.2225255/",
-               "comaintainer_country": "SPA",
+               "comaintainer_country": "PT",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-oneplus-5-5t.4443517/"
           },
           {
@@ -184,7 +184,7 @@
                "active": true,
                "maintainer_name": "omkartheandroid",
                "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
-               "maintainer_country": "IND",
+               "maintainer_country": "IN",
                "comaintainer_name": "Vitor00",
                "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
                "comaintainer_country": "BR",
@@ -204,7 +204,7 @@
                "active": true,
                "maintainer_name": "omkartheandroid",
                "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
-               "maintainer_country": "IND",
+               "maintainer_country": "IN",
                "comaintainer_name": "Vitor00",
                "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
                "comaintainer_country": "BR",
@@ -259,7 +259,7 @@
                "active": true,
                "maintainer_name": "33bca",
                "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "SWI",
+               "maintainer_country": "CH",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
           {
@@ -275,7 +275,7 @@
                "active": true,
                "maintainer_name": "33bca",
                "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "SWI",
+               "maintainer_country": "CH",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
           {
@@ -291,7 +291,7 @@
                "active": true,
                "maintainer_name": "rtx4d",
                "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-               "maintainer_country": "RUS",
+               "maintainer_country": "RU",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-8.4396061/"
           },
           {
@@ -307,7 +307,7 @@
                "active": true,
                "maintainer_name": "rtx4d",
                "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-               "maintainer_country": "RUS",
+               "maintainer_country": "RU",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
           },
           {
@@ -323,7 +323,7 @@
                "active": true,
                "maintainer_name": "Foxtrot47",
                "maintainer_link": "https://forum.xda-developers.com/m/foxtrot47.10344183/",
-               "maintainer_country": "IND",
+               "maintainer_country": "IN",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-poco-x3-pro.4408069/"
           },
           {
@@ -339,7 +339,7 @@
                "active": true,
                "maintainer_name": "rtx4d",
                "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-               "maintainer_country": "RUS",
+               "maintainer_country": "RU",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
           },
           {
@@ -355,7 +355,7 @@
                "active": true,
                "maintainer_name": "rtx4d",
                "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-               "maintainer_country": "RUS",
+               "maintainer_country": "RU",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
           },
           {
@@ -371,7 +371,7 @@
                "active": true,
                "maintainer_name": "rtx4d",
                "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-               "maintainer_country": "RUS",
+               "maintainer_country": "RU",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-2s.4396059/"
           },
           {
@@ -389,7 +389,7 @@
                "active": true,
                "maintainer_name": "REIGNZ3",
                "maintainer_link": "https://forum.xda-developers.com/m/reignz3.6549853/",
-               "maintainer_country": "IND",
+               "maintainer_country": "IN",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f1.4541311/"
           },
           {
@@ -422,7 +422,7 @@
                "active": true,
                "maintainer_name": "mahajant99",
                "maintainer_link": "https://forum.xda-developers.com/m/mahajant99.9505787/",
-               "maintainer_country": "IND",
+               "maintainer_country": "IN",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-10t-10t-pro.4379539/"
           },
           {
@@ -438,7 +438,7 @@
                "active": true,
                "maintainer_name": "ChaptSand",
                "maintainer_link": "https://forum.xda-developers.com/m/chaptsand.10891663/",
-               "maintainer_country": "CHN",
+               "maintainer_country": "CN",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-xiaomi-mi-10.4370977/"
           },
           {
@@ -473,7 +473,7 @@
                "active": true,
                "maintainer_name": "vishalcj17",
                "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
-               "maintainer_country": "IND",
+               "maintainer_country": "IN",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9-pro.4506887/"
           },
           {
@@ -489,7 +489,7 @@
                "active": true,
                "maintainer_name": "vishalcj17",
                "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
-               "maintainer_country": "IND",
+               "maintainer_country": "IN",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9.4506891/"
           },
           {
@@ -505,7 +505,7 @@
                "active": true,
                "maintainer_name": "33bca",
                "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "SWI",
+               "maintainer_country": "CH",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
           {
@@ -521,7 +521,7 @@
                "active": true,
                "maintainer_name": "33bca",
                "maintainer_xda": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "SWI",
+               "maintainer_country": "CH",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
           {
@@ -538,7 +538,7 @@
                "active": true,
                "maintainer_name": "timo_capa",
                "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
-               "maintainer_country": "GER",
+               "maintainer_country": "DE",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7t.4379529/"
           },
           {
@@ -555,7 +555,7 @@
                "active": true,
                "maintainer_name": "timo_capa",
                "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
-               "maintainer_country": "GER",
+               "maintainer_country": "DE",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-oneplus-7t-pro.4370669/"
           },
           {
@@ -572,7 +572,7 @@
                "active": true,
                "maintainer_name": "timo_capa",
                "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
-               "maintainer_country": "GER",
+               "maintainer_country": "DE",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
           }
      ]
