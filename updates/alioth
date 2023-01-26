@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-01-25",
+      "datetime": "1674633458",
+      "filename": "aospa-topaz-beta-1-alioth-20230125.zip",
+      "url": "https://mirror.codebucket.de/gotenks/aospa/alioth/aospa-topaz-beta-1-alioth-20230125.zip",
+      "fastboot": "https://mirror.codebucket.de/gotenks/aospa/alioth/aospa-topaz-beta-1-alioth-20230125-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "64d1947a141ff499d8808c69427d140fdf5982a1a18ad51f1261c8a2ee7909d2",
+      "size": "2106721515",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Initial Beta Release"
+    },
+    {
       "date": "2022-05-08",
       "datetime": "1651968000",
       "filename": "aospa-sapphire-1-alioth-beta-20220508.zip",

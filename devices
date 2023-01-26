@@ -327,6 +327,7 @@
                "codename": "alioth",
                "manufacturer": "POCO",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
@@ -411,6 +412,7 @@
                "codename": "alioth",
                "manufacturer": "Redmi",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
@@ -528,6 +530,7 @@
                "codename": "alioth",
                "manufacturer": "Xiaomi",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
