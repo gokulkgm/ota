@@ -297,6 +297,7 @@
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
