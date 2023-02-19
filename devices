@@ -449,9 +449,9 @@
                "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-1-poco-f2-pro-redmi-k30-pro-redmi-k30-pro-zoom-edition-lmi-lmipro.4507895/"
           },
           {
-               "name": "Redmi K30 Pro Zoom Edition",
+               "name": "K30 Pro Zoom Edition",
                "codename": "lmi",
-               "manufacturer": "POCO",
+               "manufacturer": "Redmi",
                "supported_versions": [
                     "Topaz",
                     "Sapphire"
