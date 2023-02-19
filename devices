@@ -314,9 +314,11 @@
                "codename": "lmi",
                "manufacturer": "POCO",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
@@ -324,7 +326,7 @@
                "maintainer_name": "mickaelmendes50",
                "maintainer_link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
                "maintainer_country": "BR",
-               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-sapphire-beta-1-poco-f2-pro.4370679/"
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-1-poco-f2-pro-redmi-k30-pro-redmi-k30-pro-zoom-edition-lmi-lmipro.4507895/"
           },
           {
                "name": "F3",
@@ -426,6 +428,44 @@
                "maintainer_link": "https://forum.xda-developers.com/m/themalachite.9609718/",
                "maintainer_country": "FR",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-x50-pro-5g.4542397/"
+          },
+          {
+               "name": "K30 Pro",
+               "codename": "lmi",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz",
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Stable",
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "mickaelmendes50",
+               "maintainer_link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
+               "maintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-1-poco-f2-pro-redmi-k30-pro-redmi-k30-pro-zoom-edition-lmi-lmipro.4507895/"
+          },
+          {
+               "name": "Redmi K30 Pro Zoom Edition",
+               "codename": "lmi",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Topaz",
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Stable",
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "mickaelmendes50",
+               "maintainer_link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
+               "maintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-1-poco-f2-pro-redmi-k30-pro-redmi-k30-pro-zoom-edition-lmi-lmipro.4507895/"
           },
           {
                "name": "K40",
