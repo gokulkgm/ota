@@ -605,7 +605,7 @@
           },
           {
                "name": "Mi 11X",
-               "codename": "aliothin",
+               "codename": "alioth",
                "manufacturer": "Xiaomi",
                "supported_versions": [
                     "Topaz",
