@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-02-18",
+      "datetime": "1676747126",
+      "filename": "aospa-topaz-1-miatoll-20230218.zip",
+      "url": "https://pixeldrain.com/api/file/8wJf2Rta",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "733ab3048af40a95c8a48c05c26171468cab593dcc82842e04ba189df935b076",
+      "size": "2035963272",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "First stable Release"
+    }
+   ]
+}
