@@ -507,7 +507,7 @@
           {
                "name": "Note 9 Pro Global",
                "codename": "miatoll",
-               "manufacturer": "POCO",
+               "manufacturer": "Redmi",
                "supported_versions": [
                     "Topaz"
                ],
@@ -523,7 +523,7 @@
           {
                "name": "Note 9 Pro Max",
                "codename": "miatoll",
-               "manufacturer": "POCO",
+               "manufacturer": "Redmi",
                "supported_versions": [
                     "Topaz"
                ],
@@ -539,7 +539,7 @@
           {
                "name": "Note 10 Lite",
                "codename": "miatoll",
-               "manufacturer": "POCO",
+               "manufacturer": "Redmi",
                "supported_versions": [
                     "Topaz"
                ],
