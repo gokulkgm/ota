@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-02-19",
+      "datetime": "1676815485",
+      "filename": "aospa-topaz-1-oneplus9r-20230219.zip",
+      "url": "https://pixeldrain.com/api/file/ucbUV2h7",
+      "fastboot": "https://pixeldrain.com/api/file/StGHtPFc",
+      "mirror": "",
+      "telegram": "",
+      "id": "f75f7c92ee491961860658c7be78bb1a2188c8e0ea2c48c77d5e1da5c17d5f6f",
+      "size": "2015613390",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "First stable release"
+    },
+    {
       "date": "2022-04-07",
       "datetime": "1649289600",
       "filename": "aospa-sapphire-3-oneplus9r-alpha-202200407-image.zip",

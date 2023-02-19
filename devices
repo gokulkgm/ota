@@ -277,9 +277,11 @@
                "codename": "oneplus9r",
                "manufacturer": "OnePlus",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Alpha"
                ],
                "active": true,
