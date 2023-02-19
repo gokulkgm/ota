@@ -446,6 +446,7 @@
                "comaintainer_country": "BR",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f3-mi-11x-redmi-k40.4546683/"
           },
+          {
                "name": "Note 9S / Note 9 Pro IN",
                "codename": "miatoll",
                "manufacturer": "Redmi",
@@ -461,6 +462,7 @@
                "maintainer_country": "BD",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
           },
+          {
                "name": "Note 9 Pro Global",
                "codename": "miatoll",
                "manufacturer": "POCO",
@@ -476,6 +478,7 @@
                "maintainer_country": "BD",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
           },
+          {
                "name": "Note 9 Pro Max",
                "codename": "miatoll",
                "manufacturer": "POCO",
@@ -491,6 +494,7 @@
                "maintainer_country": "BD",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
           },
+          {
                "name": "Note 10 Lite",
                "codename": "miatoll",
                "manufacturer": "POCO",
