@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-02-21",
+      "datetime": "1676937600",
+      "filename": "aospa-topaz-1-oneplus5t-20230221.zip",
+      "url": "https://pixeldrain.com/api/file/XULrC5tx",
+      "fastboot": "https://pixeldrain.com/api/file/BgWGJJzb",
+      "mirror": "",
+      "telegram": "",
+      "id": "a6a2ebb0a443286790fda261ae69478e47ae1e29fe552c292f2d4814180a8677",
+      "size": "1680696462",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "First stable release"
+    },
+    {
       "date": "2022-05-09",
       "datetime": " 1652127000",
       "filename": "aospa-sapphire-1-oneplus5t-beta-20220509.zip",

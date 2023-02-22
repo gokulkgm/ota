@@ -106,9 +106,11 @@
                "codename": "oneplus5",
                "manufacturer": "OnePlus",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta"
                ],
                "active": true,
@@ -118,16 +120,18 @@
                "comaintainer_name": "marcomarinho",
                "comaintainer_link": "https://forum.xda-developers.com/m/marcomarinho.4811442/",
                "comaintainer_country": "PT",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-oneplus-5-5t.4443517/"
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-oneplus-5-5t.4443517/"
           },
           {
                "name": "5T",
                "codename": "oneplus5t",
                "manufacturer": "OnePlus",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta"
                ],
                "active": true,
@@ -136,8 +140,8 @@
                "maintainer_country": "TR",
                "comaintainer_name": "herna",
                "comaintainer_link": "https://forum.xda-developers.com/m/herna.2225255/",
-               "comaintainer_country": "PT",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-oneplus-5-5t.4443517/"
+               "comaintainer_country": "ES",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-oneplus-5-5t.4443517/"
           },
           {
                "name": "7T",
