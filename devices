@@ -534,22 +534,6 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f3-mi-11x-redmi-k40.4546683/"
           },
           {
-               "name": "Note 9S / Note 9 Pro IN",
-               "codename": "miatoll",
-               "manufacturer": "Redmi",
-               "supported_versions": [
-                    "Topaz"
-               ],
-               "supported_types": [
-                    "Stable"
-               ],
-               "active": true,
-               "maintainer_name": "BladeRunnerA2C",
-               "maintainer_link": "https://forum.xda-developers.com/m/bladerunnera2c.9156096/",
-               "maintainer_country": "BD",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
-          },
-          {
                "name": "Note 9 Pro Global",
                "codename": "miatoll",
                "manufacturer": "Redmi",
@@ -566,7 +550,39 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
           },
           {
+               "name": "Note 9 Pro IN",
+               "codename": "miatoll",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "BladeRunnerA2C",
+               "maintainer_link": "https://forum.xda-developers.com/m/bladerunnera2c.9156096/",
+               "maintainer_country": "BD",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
+          },
+          {
                "name": "Note 9 Pro Max",
+               "codename": "miatoll",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "BladeRunnerA2C",
+               "maintainer_link": "https://forum.xda-developers.com/m/bladerunnera2c.9156096/",
+               "maintainer_country": "BD",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
+          },
+          {
+               "name": "Note 9S",
                "codename": "miatoll",
                "manufacturer": "Redmi",
                "supported_versions": [
