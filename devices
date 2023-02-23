@@ -630,7 +630,23 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-miatoll.4555519/"
           },
           {
-               "name": "Note 11 / Note 11 NFC",
+               "name": "Note 11",
+               "codename": "spes",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta"
+               ],
+               "active": true,
+               "maintainer_name": "chrisw444",
+               "maintainer_link": "https://forum.xda-developers.com/m/chrisw444.11220339/",
+               "maintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-note-11-11-nfc.4544771/"
+          },
+          {
+               "name": "Note 11 NFC",
                "codename": "spes",
                "manufacturer": "Redmi",
                "supported_versions": [
