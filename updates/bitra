@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-02-22",
+      "datetime": "1677043356",
+      "filename": "aospa-topaz-beta-2-bitra-20230222.zip",
+      "url": "https://pixeldrain.com/api/file/zcG7RQEx",
+      "fastboot": "https://pixeldrain.com/api/file/hmhgoNLD",
+      "mirror": "",
+      "telegram": "",
+      "id": "ef1fc628ec3f73c8ced63b9da8415eaa571c1d11b8d0eb36cf655b00c0d20f5b",
+      "size": "2641539452",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Fingerprint, NFC, and Radio fixes"
+    },
+    {
       "date": "2023-01-15",
       "datetime": "1673754462",
       "filename": "aospa-topaz-beta-1-bitra-20230115.zip",

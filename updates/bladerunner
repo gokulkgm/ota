@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-02-22",
+      "datetime": "1677039921",
+      "filename": "aospa-topaz-beta-2-bladerunner-20230222.zip",
+      "url": "https://pixeldrain.com/api/file/n1bKrPci",
+      "fastboot": "https://pixeldrain.com/api/file/nmWvZD2K",
+      "mirror": "",
+      "telegram": "",
+      "id": "df42a3e3054502ce152f1df5f91d914141d1c096cf7b392859ee75b8da45d0e8",
+      "size": "2633906553",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Fingerprint, NFC, and Radio fixes"
+    },
+    {
       "date": "2023-01-15",
       "datetime": "1673758341",
       "filename": "aospa-topaz-beta-1-bladerunner-20230115.zip",
