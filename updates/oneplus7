@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-21",
+      "datetime": "1681844891",
+      "filename": "aospa-topaz-2-oneplus7-20230418.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-oneplus7-20230418.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-oneplus7-20230418-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "a7c2691f17d151168e3da22b80639c88356b0a9adade137d7b24a130faa18964",
+      "size": "1829099444",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "Implemented DC Dimming, bug fixes, and performance improvements"
+    },
+    {
       "date": "2023-02-20",
       "datetime": "1676851200",
       "filename": "aospa-topaz-1-oneplus7-20230220.zip",
