@@ -15,7 +15,7 @@
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-04-05",
-      "changelog_device": "Added DC Dimming, Fixed Wi-Fi Display"
+      "changelog_device": "Bug fixes and performance improvements"
     },
     {
       "date": "2023-02-21",
