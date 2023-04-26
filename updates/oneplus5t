@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-26",
+      "datetime": "1682471438",
+      "filename": "aospa-topaz-2.1-oneplus5t-20230426.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2.1-oneplus5t-20230426.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2.1-oneplus5t-20230426-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "5db89eb822c08df30da96e3fb2feb786694712b7e08d0ed6752c48cdaceb6a80",
+      "size": "1663784356",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "Fixed Hotspot, Added support for DC Dimming, Enabled burn-in protection"
+    },
+    {
       "date": "2023-04-21",
       "datetime": "1682027856",
       "filename": "aospa-topaz-2-oneplus5t-20230420.zip",
