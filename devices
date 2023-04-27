@@ -382,6 +382,7 @@
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
@@ -633,6 +634,7 @@
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
@@ -882,6 +884,7 @@
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
